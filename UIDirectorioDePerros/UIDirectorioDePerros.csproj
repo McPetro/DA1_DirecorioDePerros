@@ -72,6 +72,12 @@
     <Compile Include="VerPerros.Designer.cs">
       <DependentUpon>VerPerros.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AgregarDuenio.resx">
+      <DependentUpon>AgregarDuenio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarPerro.resx">
+      <DependentUpon>AgregarPerro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -83,6 +89,9 @@
     </Compile>
     <EmbeddedResource Include="VentanaPrincipal.resx">
       <DependentUpon>VentanaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerPerros.resx">
+      <DependentUpon>VerPerros.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

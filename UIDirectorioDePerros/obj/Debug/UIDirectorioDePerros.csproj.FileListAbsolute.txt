@@ -9,3 +9,6 @@ E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDire
 E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.csproj.GenerateResource.Cache
 E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.exe
 E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.pdb
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.AgregarDuenio.resources
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.AgregarPerro.resources
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.VerPerros.resources
