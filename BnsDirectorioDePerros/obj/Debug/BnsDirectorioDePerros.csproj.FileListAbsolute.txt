@@ -1,0 +1,5 @@
+E:\Users\paolo\Projects\DirectorioDePerros\BnsDirectorioDePerros\bin\Debug\BnsDirectorioDePerros.dll
+E:\Users\paolo\Projects\DirectorioDePerros\BnsDirectorioDePerros\bin\Debug\BnsDirectorioDePerros.pdb
+E:\Users\paolo\Projects\DirectorioDePerros\BnsDirectorioDePerros\obj\Debug\BnsDirectorioDePerros.csprojResolveAssemblyReference.cache
+E:\Users\paolo\Projects\DirectorioDePerros\BnsDirectorioDePerros\obj\Debug\BnsDirectorioDePerros.dll
+E:\Users\paolo\Projects\DirectorioDePerros\BnsDirectorioDePerros\obj\Debug\BnsDirectorioDePerros.pdb

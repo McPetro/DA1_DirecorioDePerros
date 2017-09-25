@@ -1,1 +1,11 @@
 E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\bin\Debug\UIDirectorioDePerros.exe.config
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\bin\Debug\UIDirectorioDePerros.exe
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\bin\Debug\UIDirectorioDePerros.pdb
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\bin\Debug\BnsDirectorioDePerros.dll
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\bin\Debug\BnsDirectorioDePerros.pdb
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.csprojResolveAssemblyReference.cache
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.Properties.Resources.resources
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.VentanaPrincipal.resources
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.csproj.GenerateResource.Cache
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.exe
+E:\Users\paolo\Projects\DirectorioDePerros\UIDirectorioDePerros\obj\Debug\UIDirectorioDePerros.pdb
